@@ -1,1 +1,2 @@
 # Electricity-billing-system
+An "electricity billing system project" aims to develop a software application that automates the process of generating and managing electricity bills for customers, by electronically storing customer details, meter readings, calculating consumed units, applying appropriate tariffs, and generating bills for payment, ultimately streamlining the billing process and minimizing manual errors within an electricity company
